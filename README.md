@@ -15,8 +15,13 @@
 * Node.js
 
 ... and much more for general game development stuff like gimp or asprite and bandlab or fl studio.
-<<<<<<< HEAD
 Using new game development consepts and while also understanding how the web works.
-=======
-Using new game development consepts and while also understanding how the web works.
->>>>>>> origin/main
+
+## Installation
+
+* Clone the repository 
+* In the console run : npm install
+* After its done run : npm run dev
+* Navigate to localhost 3000 (or click on the terminal link) to see the game
+
+
